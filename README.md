@@ -8,4 +8,5 @@ Using Mnist Hand written digits to classify between ten different Numbers rangin
   <li>Scikit-learn
   <li>Tensoflow</li>
   <li>Keras</li>
+  <li>OpenCV<li>
  </ul>
