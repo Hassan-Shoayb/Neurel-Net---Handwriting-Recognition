@@ -5,6 +5,8 @@ Using Mnist Hand written digits to classify between ten different Numbers rangin
 <ul>
   <li>Numpy</li>
   <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
   <li>Scikit-learn
   <li>Tensoflow</li>
   <li>Keras</li>
